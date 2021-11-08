@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\Calculator_pro\Calculator_pro\bin\Debug\Calculator_pro.exe.config
+C:\Users\user\source\repos\Calculator_pro\Calculator_pro\bin\Debug\Calculator_pro.exe
+C:\Users\user\source\repos\Calculator_pro\Calculator_pro\bin\Debug\Calculator_pro.pdb
+C:\Users\user\source\repos\Calculator_pro\Calculator_pro\obj\Debug\Calculator_pro.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Calculator_pro\Calculator_pro\obj\Debug\Calculator_pro.Properties.Resources.resources
+C:\Users\user\source\repos\Calculator_pro\Calculator_pro\obj\Debug\Calculator_pro.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Calculator_pro\Calculator_pro\obj\Debug\Calculator_pro.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Calculator_pro\Calculator_pro\obj\Debug\Calculator_pro.exe
+C:\Users\user\source\repos\Calculator_pro\Calculator_pro\obj\Debug\Calculator_pro.pdb
+C:\Users\user\source\repos\Calculator_pro\Calculator_pro\obj\Debug\Calculator_pro.Calculator.resources
